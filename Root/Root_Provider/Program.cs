@@ -1,13 +1,13 @@
-﻿using Microsoft.Extensions.Hosting;
-using Microsoft.Extensions.Configuration;
+﻿using Microsoft.Extensions.Configuration;
+using Microsoft.Extensions.DependencyInjection;
+using Microsoft.Extensions.Hosting;
+using Root_Extensions;
 using System;
 using System.IO;
 using Microsoft.Extensions.Logging;
-using Microsoft.Extensions.DependencyInjection;
-using Root_Extensions;
-using Root_Consume.Services;
+using Root_Provider.Service;
 
-namespace Root
+namespace Root_Provider
 {
     class Program
     {
@@ -17,6 +17,7 @@ namespace Root
                 ConfigureHostConfiguration(configHost =>
                 {
                     configHost.SetBasePath(Directory.GetCurrentDirectory());
+
                 }).ConfigureAppConfiguration((hostContext, configApp) =>
                 {
                     configApp.AddJsonFile("appsettings.json", true);
@@ -25,15 +26,13 @@ namespace Root
                     services.AddOptions();
                     services.AddLogging();
                     services.AddRabbitMqConnection(hostContext.Configuration);
-                    services.AddHostedService<MsgFailSuccessTestServerA>();
-                    services.AddHostedService<MsgFailSuccessTestServerB>();
+                    services.AddHostedService<MsgFailSuccessTestServer>();
                 }).ConfigureLogging((hostContext, configLog) =>
                 {
                     configLog.AddConsole();
                 }).Build();
 
             host.Run();
-
         }
     }
 }

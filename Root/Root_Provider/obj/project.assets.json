@@ -1162,11 +1162,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\臻旅程序\\RabbitMq\\Root\\Root\\Root_Consume.csproj",
-      "projectName": "Root_Consume",
-      "projectPath": "D:\\臻旅程序\\RabbitMq\\Root\\Root\\Root_Consume.csproj",
+      "projectUniqueName": "D:\\臻旅程序\\RabbitMq\\Root\\Root_Provider\\Root_Provider.csproj",
+      "projectName": "Root_Provider",
+      "projectPath": "D:\\臻旅程序\\RabbitMq\\Root\\Root_Provider\\Root_Provider.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "D:\\臻旅程序\\RabbitMq\\Root\\Root\\obj\\",
+      "outputPath": "D:\\臻旅程序\\RabbitMq\\Root\\Root_Provider\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,0 +1,8 @@
+D:\臻旅程序\RabbitMq\Root\Root_Options\bin\Debug\netstandard2.0\Root_Options.deps.json
+D:\臻旅程序\RabbitMq\Root\Root_Options\bin\Debug\netstandard2.0\Root_Options.dll
+D:\臻旅程序\RabbitMq\Root\Root_Options\obj\Debug\netstandard2.0\Root_Options.AssemblyInfoInputs.cache
+D:\臻旅程序\RabbitMq\Root\Root_Options\obj\Debug\netstandard2.0\Root_Options.AssemblyInfo.cs
+D:\臻旅程序\RabbitMq\Root\Root_Options\bin\Debug\netstandard2.0\Root_Options.pdb
+D:\臻旅程序\RabbitMq\Root\Root_Options\obj\Debug\netstandard2.0\Root_Options.dll
+D:\臻旅程序\RabbitMq\Root\Root_Options\obj\Debug\netstandard2.0\Root_Options.pdb
+D:\臻旅程序\RabbitMq\Root\Root_Options\obj\Debug\netstandard2.0\Root_Options.csprojAssemblyReference.cache

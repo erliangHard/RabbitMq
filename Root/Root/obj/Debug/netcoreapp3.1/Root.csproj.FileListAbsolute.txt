@@ -1,0 +1,7 @@
+D:\臻旅程序\RabbitMq\Root\Root\bin\Debug\netcoreapp3.1\Root.exe
+D:\臻旅程序\RabbitMq\Root\Root\obj\Debug\netcoreapp3.1\Root.csprojAssemblyReference.cache
+D:\臻旅程序\RabbitMq\Root\Root\obj\Debug\netcoreapp3.1\Root.AssemblyInfoInputs.cache
+D:\臻旅程序\RabbitMq\Root\Root\obj\Debug\netcoreapp3.1\Root.AssemblyInfo.cs
+D:\臻旅程序\RabbitMq\Root\Root\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+D:\臻旅程序\RabbitMq\Root\Root\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+D:\臻旅程序\RabbitMq\Root\Root\obj\Debug\netcoreapp3.1\Root.csproj.CopyComplete

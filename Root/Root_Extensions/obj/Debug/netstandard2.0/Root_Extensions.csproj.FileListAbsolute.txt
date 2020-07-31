@@ -1,0 +1,11 @@
+D:\臻旅程序\RabbitMq\Root\Root_Extensions\bin\Debug\netstandard2.0\Root_Extensions.deps.json
+D:\臻旅程序\RabbitMq\Root\Root_Extensions\bin\Debug\netstandard2.0\Root_Extensions.dll
+D:\臻旅程序\RabbitMq\Root\Root_Extensions\obj\Debug\netstandard2.0\Root_Extensions.csprojAssemblyReference.cache
+D:\臻旅程序\RabbitMq\Root\Root_Extensions\obj\Debug\netstandard2.0\Root_Extensions.AssemblyInfoInputs.cache
+D:\臻旅程序\RabbitMq\Root\Root_Extensions\obj\Debug\netstandard2.0\Root_Extensions.AssemblyInfo.cs
+D:\臻旅程序\RabbitMq\Root\Root_Extensions\bin\Debug\netstandard2.0\Root_Options.dll
+D:\臻旅程序\RabbitMq\Root\Root_Extensions\bin\Debug\netstandard2.0\Root_Extensions.pdb
+D:\臻旅程序\RabbitMq\Root\Root_Extensions\bin\Debug\netstandard2.0\Root_Options.pdb
+D:\臻旅程序\RabbitMq\Root\Root_Extensions\obj\Debug\netstandard2.0\Root_Extensions.csproj.CopyComplete
+D:\臻旅程序\RabbitMq\Root\Root_Extensions\obj\Debug\netstandard2.0\Root_Extensions.dll
+D:\臻旅程序\RabbitMq\Root\Root_Extensions\obj\Debug\netstandard2.0\Root_Extensions.pdb
